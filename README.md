@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ahmad Faisal**.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Muhammadiyah Makassar]([https://www.dicoding.com/](https://unismuh.ac.id/)).<br>
+Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Muhammadiyah Makassar]([https://www.dicoding.com/](https://unismuh.ac.id/).<br>
 
 Saya bergabung dalam organisasi **IT** dan memiliki jabatan sebagai **Anggota Dapartmen Keorganisasian** di [COCONUT Computer Club](https://coconut.or.id/).<br>
 
