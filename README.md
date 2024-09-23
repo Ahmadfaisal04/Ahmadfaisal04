@@ -8,4 +8,4 @@ Saya bergabung dalam organisasi **IT** dan memiliki jabatan sebagai **Anggota Da
 
 Saya berfokus pada bidang **Backend Developer dan Cloud Engginer**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-faisal-a93227190/) dan [Instagram](https://www.instagram.com/ahmadfaizal_af/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-faisal-a93227190/) dan [Instagram](https://www.instagram.com/ahmadfaizal_af/) ku ya.
