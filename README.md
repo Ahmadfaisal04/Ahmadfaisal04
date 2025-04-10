@@ -9,7 +9,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I am a 7th-semester Informatics Engineering student with a strong interest in web development and backend. I am proficient in HTML, CSS, JavaScript, Golang, Bootstrap, and MySQL. Currently, I am learning cloud computing to integrate web and backend applications into a scalable and efficient environment.</b>
+> <b>I am an Informatics Engineering student with a strong interest in web development and backend. I am proficient in HTML, CSS, JavaScript, Golang, Bootstrap, and MySQL. Currently, I am learning cloud computing to integrate web and backend applications into a scalable and efficient environment.</b>
 
 ## 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/-Html-555?style=flat&logo=html)&nbsp;
