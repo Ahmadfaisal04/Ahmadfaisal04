@@ -16,7 +16,7 @@
 ![Css](https://img.shields.io/badge/-Css-555?style=flat&logo=css)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-555?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-555?style=flat&logo=bootstrap)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Boostrap-555?style=flat&logo=bootstrap)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
@@ -26,24 +26,13 @@
 
 <table>
     <tr>
-        <td align="center">
-            <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadfaisal04&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
-            <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadfaisal04&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-        </td>
-        <td rowspan="2" align="center">
-            <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfaisal04&theme=default&langs_count=8#gh-light-mode-only" alt="Top Languages"/></a>
-            <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfaisal04&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Top Languages"/></a>
-        </td>
+        <td align="center"><a href="https://github.com/Ahmadfaisal04#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadfaisal04&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Ahmadfaisal04#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadfaisal04&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Ahmadfaisal04s#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfaisal04&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Ahmadfaisal04#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfaisal04&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center">
-            <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfaisal04&theme=default"/></a>
-            <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfaisal04&theme=tokyonight"/></a>
-        </td>
+        <td align="center"><a href="https://github.com/Ahmadfaisal04#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfaisal04&theme=default"/></a><a href="https://github.com/Ahmadfaisal04#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfaisal04&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center">
-            <a href="#"><img src="https://raw.githubusercontent.com/Ahmadfaisal04/Ahmadfaisal04/output/github-contribution-grid-snake.svg" alt="Snake Animation"/></a>
-        </td>
+        <td colspan="2" align="center"><a href="https://github.com/Ahmadfaisal04#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Ahmadfaisal04#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
